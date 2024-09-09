@@ -1,0 +1,4 @@
+﻿  game.cpp
+C:\Users\KGA\Desktop\메타플밍 8기\mp2week\mp2week\game.cpp(77,8): warning C4101: 'card' :참조되지 않은 지역 변수입니다.
+C:\Users\KGA\Desktop\메타플밍 8기\mp2week\mp2week\game.cpp(84,9): warning C4101: 'card' :참조되지 않은 지역 변수입니다.
+  mp2week.vcxproj -> C:\Users\KGA\Desktop\메타플밍 8기\mp2week\x64\Debug\mp2week.exe
