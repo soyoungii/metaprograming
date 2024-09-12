@@ -15,21 +15,10 @@ enum Shape
 	Clover,
 	Spade
 };
-
-enum Number
-{
-
-num = 1,
-num2,
-num3,
-num4, num5, num6, num7, num8, num9, num10, num11, num12, num13
-
-};
-
 struct Card
 {
 	Shape s;
-	Number n;
+	int num;
 };
 
 void ShuffleCard(Card card[])
