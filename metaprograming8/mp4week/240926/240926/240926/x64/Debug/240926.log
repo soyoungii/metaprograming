@@ -1,0 +1,11 @@
+﻿  1.cpp
+C:\Users\KGA\OneDrive\바탕 화면\메타플밍 8기\mp4week\240926\240926\1.cpp(147,15): error C2059: 구문 오류: '<parameter-list>'
+      C:\Users\KGA\OneDrive\바탕 화면\메타플밍 8기\mp4week\240926\240926\1.cpp(147,15):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\KGA\OneDrive\바탕 화면\메타플밍 8기\mp4week\240926\240926\1.cpp(55,7):
+          클래스 템플릿 'BinaryTree'을(를) 컴파일하는 동안
+          C:\Users\KGA\OneDrive\바탕 화면\메타플밍 8기\mp4week\240926\240926\1.cpp(59,12):
+          클래스 'BinaryTree<T>::Node'을(를) 컴파일하는 동안
+  
+C:\Users\KGA\OneDrive\바탕 화면\메타플밍 8기\mp4week\240926\240926\1.cpp(147,23): error C2334: ':' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Users\KGA\OneDrive\바탕 화면\메타플밍 8기\mp4week\240926\240926\1.cpp(148,1): error C1903: 이전 오류를 복구할 수 없습니다. 컴파일이 중지됩니다.
